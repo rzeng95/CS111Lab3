@@ -1,0 +1,28 @@
+# Fill in your name, student ID, and email address in this file.
+# If you are working in a team, fill out the information for both team 
+# members.
+
+# SUBMIT THE LAB ONLY ONCE (from only one partner). This file will be
+# automatically parsed in order to give both team members credit for the
+# lab.
+
+# If you did one or more extra credit problems, indicate which one in the
+# appropriate section below (remove the # sign first). If you have any other
+# information you'd like us to know, please add it at the end of the file.
+
+# Partner 1
+Name: Roland Zeng
+Student ID: 204150508
+Email:roland.zeng@gmail.com
+
+# Partner 2 (if you're working in a team)
+Name: Daniel Gregory Dy Ong
+Student ID: 804301788
+Email: danieldyo@ucla.edu
+
+# Extra credit problems
+#Extra credit problem: none
+
+# Add any other information you'd like us to know below this line.
+Code passes 17/17 tests.
+Implemented direct_index, indir2_index, and indir_index but were not used. Also symbolic links were not implemented either. 
